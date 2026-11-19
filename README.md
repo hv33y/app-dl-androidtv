@@ -1,4 +1,4 @@
 # Direct App Downloads (@hv33y)
 
 - [Tizen Tube Cobalt (Youtube TV)](https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.3/cobalt-arm.apk)
-- [SmartTube Stable (Backup)](https://github.com/yuliskov/SmartTube/releases/download/32.71s/SmartTube_stable_32.71_armeabi-v7a.apk)
+- [SmartTube Stable (Backup)](https://github.com/yuliskov/SmartTube/releases/download/32.80s/SmartTube_stable_32.80_armeabi-v7a.apk)
